@@ -1,0 +1,80 @@
+body {
+    margin: 0 
+}
+body {
+    background-image: url(Article_166000_860_575.jpg); 
+    background-color: #c7b39b; 
+    background-repeat: no-repeat;
+    background-size: cover;
+   }
+h1 {
+    font-family: monospace;
+    color: #008B8B;
+    display: block;
+    width: 458px;
+    margin: 0 auto 30px;
+  }
+h2 {
+  font-family: monospace;
+  color: #008B8B;
+  display: block;
+  width: 458px;
+  margin: 0 auto 30px;
+}
+ul {
+  list-style: none; 
+  margin: 0 auto;
+}
+a {
+  text-decoration: none;
+  font-family: 'Lora', serif;
+  transition: .5s linear;
+}
+i {
+  margin-right: 10px;
+}
+nav {
+  display: block;
+  width: 458px;
+  margin: 0 auto 30px;
+}
+ul {
+    background: #e8edff;
+    overflow: hidden;
+    padding: 0;
+  }
+  li {
+    float: left;
+  }
+  a {
+    display: block;
+    padding: 1em;
+    border-right: 1px solid #008B8B;
+    background: rgba(173, 192, 206, .3);
+    color: #29838C;
+  }
+  a:hover {background: #008B8B}
+  body {
+	display: inline;
+	position: relative;
+    margin-left: 25px;
+  }
+table {
+    margin: 0 auto 30px;
+    display: block;
+    width: 470px;
+    border-collapse: collapse; 
+    border: 1px solid grey; 
+    background: Silver;
+    }
+    th {
+        font-weight: normal;
+        color: #008B8B;
+        padding: 10px 15px;
+      }
+      td {
+        color: #008B8B;
+        border-top: 1px solid #008B8B;
+        padding: 10px 15px;
+      }
+      tr:nth-child(2n) {background: #e8edff;}
